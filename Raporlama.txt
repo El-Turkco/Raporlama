@@ -1,0 +1,18 @@
+Raporlama İşlemi ve süreçleri
+Statement of Work (SOW) (İş Planı)
+    Gerçekleştirilecek olan penetrasyon testinin kapsamı, süreçleri, metodolojisi, tarihi, teslimi,
+    ücreti ve ödeme planı gibi detayların müşteri kabulüne sunulduğu ve bildirildiği dokümantasyondur.
+Master Serv ice Agreement (MSA) (Hizmet Sözleşmesi)
+    Penetrasyon testi hizmetinin tarafları, işin tanımı, tarihleri, 
+    teslimi ve ücreti gibi konularda mutabık olunduğunu belgeleyen ve taraflar arasında imzalanan sözleşmedir.
+
+Non-disclosure Agreement (NDA) (Gizlilik Sözleşmesi)
+    Penetrasyon testi süreçlerinin tümünde bilinen veya rastlanan hiçbir bilginin ifşa edilmemesi ve gizliliğin esas alınması adına taraflar arasında imzalanan gizlilik sözleşmesidir.
+    Müşterinin penetrasyon testi yaptıracağı, yaptırdığı veya bulguları dahil tüm bilgilerin gizliliğini kapsar.
+
+Rules of Engagement (ROE) (Angajman Kuralları)
+    Penetrasyon testi sürecinin risklerini ele alır. Karşılaşabilecek kesinti, hasar, kayıp, bulgu gibi durumlarda neler yapılacağının bildirildiği dokümantasyondur.
+    Kesinti ve mesai saatlerinin belirlenmesi, güvenlik açıklarına ne yapılacağı, ne kadar ilerleneceği, acil durum eylem planları, acil durum kişi erişim bilgileri vb. belirlenir ve belirtilir.
+Findings Report (Bulgular Raporu)
+    Penetrasyon testi sürecinde karşılaşılan durumların, yapılan değişikliklerin ve elde edilen sonuçların detaylı ve görsel destekli olarak raporlandığı dokümantasyondur.
+    Bulguların özeti, kategorilendirilmesi; kritiklik derecelendirmesi ve sokuru dahil kullanılan araçların isimlerini içerir.
